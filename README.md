@@ -239,7 +239,7 @@ Dual ML approach
 - 🎓 B.Tech CSE — Manipal University Jaipur
 - 📍 Lucknow, Uttar Pradesh, India
 - 📧 divyaraj8009226666@gmail.com
-- 🔗 [LinkedIn](https://linkedin.com/in/divya-raj-singh-462958380)
+- 🔗 [LinkedIn](www.linkedin.com/in/divya-raj-singh)
 - 📄 [IEEE Paper](https://ieeexplore.ieee.org/document/11158136)
 
 ---
