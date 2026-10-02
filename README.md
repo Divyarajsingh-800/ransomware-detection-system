@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-blue)
 ![ML](https://img.shields.io/badge/Machine%20Learning-Random%20Forest-green)
 ![Flask](https://img.shields.io/badge/Flask-SocketIO-red)
-![Accuracy](https://img.shields.io/badge/Accuracy-100%25-brightgreen)
+![Accuracy](https://img.shields.io/badge/Accuracy-96.8%25-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
 > Real-time ransomware detection using Shannon Entropy Analysis,
@@ -30,7 +30,7 @@ ransomware in real time.
 
 | Metric | Value |
 |--------|-------|
-| ✅ Detection Accuracy | **100%** |
+| ✅ Detection Accuracy | **96.8%** |
 | ✅ False Positive Rate | **0%** |
 | ✅ Average Latency | **9.70 ms** |
 | ✅ Throughput | **103 files/second** |
